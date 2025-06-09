@@ -55,9 +55,10 @@ CSIASSIGNMENT-2/
 
 ##🛠 Tech Stack
 React
-
 JavaScript (ES6+)
-
 Tailwind CSS (optional for styling)
-
 localStorage
+
+
+#Live Demo
+# csiassignment-2.vercel.app
