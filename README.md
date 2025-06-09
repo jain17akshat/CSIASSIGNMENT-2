@@ -62,4 +62,4 @@ localStorage
 
 ## 🔗 Live Demo
 
-[Click here to view the live app](https://csiassignment-2.vercel.app)
+[Click here to view the live app](https://csiassignment-2-jain7akshat-gmailcoms-projects.vercel.app/)
