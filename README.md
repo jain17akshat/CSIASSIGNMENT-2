@@ -60,8 +60,6 @@ Tailwind CSS (optional for styling)
 localStorage
 
 
-## 🔗 Live Demo
-
-[Click here to view the live app](https://csiassignment-2-jain7akshat-gmailcoms-projects.vercel.app/)
-**Live Demo:** https://csiassignment-2.vercel.app
+# See a live Preview of this project here 
+# https://csiassignment-2-998o0236m-jain7akshat-gmailcoms-projects.vercel.app/
 
